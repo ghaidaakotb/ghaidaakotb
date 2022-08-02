@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ghaidaakotb
+- 👀 I’m interested in e-learning solutions
+- 🌱 I’m currently learning C#
+- 📫 How to reach me ghaidaa.kotb@gmail.com
